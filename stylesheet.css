@@ -1056,7 +1056,7 @@ audio {
 	100% {
 		-ms-transform:translate(0px,0px);
 	}
-}o
+}
 @keyframes bannar_come {
 	0%{
 		transform:translate(0px,-1000px);
@@ -1077,18 +1077,18 @@ audio {
 
 .balloons {
 	position: fixed;
-	bottom: -200px;
+	bottom: -30vw;
 	opacity: 0.6;
 	z-index: 99;
-	width: 100px;
-	height: 183px;
+	width: 15vw;
+	height: 27.45vw;
 	background-repeat: no-repeat no-repeat;
-	background-size: 100px 183px;
+	background-size: 100% 100%;
 }
 .balloons h2 {
 	text-transform: uppercase;
 	font-family: 'Signika', sans-serif;
-	font-size: 50px;
+	font-size: 8vw;
 	color: #BF4136;
 	text-shadow: 5px 5px 5px #FFF;
 	display: none;
